@@ -36,7 +36,7 @@ Copy
 
 Edit
 
-git clone https://github.com/Priya3034/greenden-tailwind.git
+git clone https://priya3034.github.io/Greenden-tailwind/
 
 Navigate to the project folder:
 
